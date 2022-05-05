@@ -65,3 +65,11 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 - **Postman API Testing Tools**
 - **SQL Yog**
 - **Jupyter Notebook**
+
+---
+## :iphone: Screenshots
+![Main](https://user-images.githubusercontent.com/75878718/166941574-fc864106-2c10-4994-a6a6-d25786b34bf9.PNG)
+![Add](http![analytics2PNG](https://user-images.githubusercontent.com/75878718/166941833-79264b27-5ebb-473f-b56d-7c80580960e2.PNG)
+![analytics2PNG](https://user-images.githubusercontent.com/75878718/166941910-b89e3497-117e-4fd7-beaf-96a4d5db068a.PNG)
+
+
